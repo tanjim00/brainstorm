@@ -24,6 +24,7 @@
     "ioredis": "^5.3.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.2.0",
+    "redis": "^4.6.13",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.3.3"
   }
